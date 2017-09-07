@@ -2,3 +2,4 @@
 2. alohamora
 3. wingardium leviosa
 4. avada kedavra
+5. Accio (Summoning Charm)
